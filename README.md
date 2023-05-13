@@ -1,7 +1,7 @@
 
-#ორივე ფაილი უნდა იყოს გვედრიგვერდ!
+#both files need to be in same dir!
 
-- list ფაილში ჩასვით იუთუბ ლინკები (თითო ლინკი თითო ხაზზე)
-- გაუშვით python სკრიპტ
+- list txt file should contain youtube links(one link on one line)
+- run python script
 
-ყველა მუსიკა ჩამოიტვირთება ფაილში სადაც არის პითონის და ტექსტური ფაილები.
+every song will be downloaded in the dircetoyry you are.
